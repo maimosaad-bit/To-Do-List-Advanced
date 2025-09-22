@@ -2,7 +2,8 @@
 📌 Overview
 
      This is a To Do List web app built with HTML, CSS, and JavaScript.
-     It allows users to add, mark, and delete tasks, and it also saves tasks to localStorage so they remain available after refreshing or reopening the page.
+     It allows users to add, mark, and delete tasks, and it also saves tasks to localStorage so they remain available 
+     after refreshing or reopening the page.
 
 🚀 Features
 
